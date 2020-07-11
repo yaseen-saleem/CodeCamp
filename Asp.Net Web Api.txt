@@ -1,0 +1,37 @@
+What is REST?
+1. Seperate Client–server
+2. Stateless – Each request from client to server must contain all of the 
+information necessary to understand the request
+3. Layered system
+
+***Project***
+AutoFac is Dependency injection Layer
+registering services so we can inject them
+when we run migrations it will setup database with some 
+example data
+
+**Contract Serialization**
+there is collection of serializers in web api if we write 
+text/xml in our
+request accept header then we can return bacck xml based 
+data from our api
+
+==>Converting of data in one form to another form.
+
+***Model Binding***
+it will take the data which we are sending in the request
+ and bind it with
+the properties which are inside the method.
+
+what are Association Controllers?
+the API's which we are making are these REST?
+Difference between Asp Core and ASP web api?
+mostly work here like Wecore is made in Asp core or Asp Webb 
+api?
+Difference between [RoutePrefix] tag and [Route] attribute?
+Are Web services same with web api here we making service?
+in initial days what is better for us to do courses or to 
+read material?
+what is mapping and reverse mappinng?
+
+
